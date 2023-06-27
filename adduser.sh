@@ -1,7 +1,7 @@
 #!/bin/bash -
 ##########################################################
 # Author:      Christo Deale                  
-# Date  :      2023-06-27                
+# Date:        2023-06-27                
 # adduser:     Utility to add username & password
 ##########################################################
 # Check if the script is being run as root
