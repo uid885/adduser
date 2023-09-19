@@ -1,9 +1,8 @@
 #!/bin/bash -
-##########################################################
 # Author:      Christo Deale                  
 # Date:        2023-06-27                
 # adduser:     Utility to add username & password
-##########################################################
+
 # Check if the script is being run as root
 if [[ $EUID -ne 0 ]]; then
    echo "This script must be run as root."
